@@ -30,7 +30,8 @@ If you would prefer to do things manually then follow these instructions:
 3. Edit settings
 
 == Screenshots ==
-1. Skip To expanded on sample site.
+1. SkipTo expanded on sample site.
+2. Settings page in wp-admin to customize SkipTo.
 
 == Changelog ==
 
