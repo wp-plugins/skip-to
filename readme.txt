@@ -30,9 +30,7 @@ If you would prefer to do things manually then follow these instructions:
 3. Edit settings
 
 == Screenshots ==
-<img src="images/screenshot_homepage.jpg" alt="Skip To expanded on sample site">
-
-1. Example of the menu in action.
+1. Skip To expanded on sample site.
 
 == Changelog ==
 
