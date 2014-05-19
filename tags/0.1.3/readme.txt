@@ -31,6 +31,7 @@ If you would prefer to do things manually then follow these instructions:
 
 == Screenshots ==
 1. Example of the menu in action.
+2. Settings page in wp-admin to customize SkipTo.
 
 == Changelog ==
 
