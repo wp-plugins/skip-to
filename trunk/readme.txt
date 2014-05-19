@@ -7,6 +7,7 @@ Tags: skip to, accessibility
 License: Apache-2.0
 
 == Description ==
+This plugin enhances the accessibility of your website for keyboard and screen reader users by providing a dynamically-generated and highly-configurable menu of the most important places on the page.
 
 # [SkipTo](http://paypal.github.io/skipto/)
 SkipTo is a replacement for your old classic "Skipnav" link, (so please use it as such)!
