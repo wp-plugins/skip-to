@@ -2,7 +2,7 @@
 Plugin Name: SkipTo
 Plugin URI: https://github.com/paypal/skipto
 Description: This plugin enhances the accessibility of your website for keyboard and screen reader users by providing a dynamically-generated and highly-configurable menu of the most important places on the page.
-Version: 0.1.3
+Version: 2.0.0
 Tags: skip to, accessibility
 License: Apache-2.0
 
@@ -49,6 +49,10 @@ If you would prefer to do things manually then follow these instructions:
 * Changed the SkipToMin.js and added features like scanning by ID, customclass for overrides, specify which element it should attach to . 
 * Updates to the readme. 
 
+= 2.0.0 =
+* Jon from University of Illinois Changed  SkipToMin.js and added features like Nav etc.  . 
+* Updates to the readme. 
+
 == Authors ==
 **Nawaz Khan**
 [https://github.com/mpnkhan](https://github.com/mpnkhan) || [@mpnkhan](https://twitter.com/mpnkhan)
@@ -61,3 +65,9 @@ If you would prefer to do things manually then follow these instructions:
 
 **Marc Kocher**
 [https://github.com/mdkocher](https://github.com/mdkocher) || [@marckocher](https://twitter.com/marckocher)
+
+**Jon Gunderson** 
+[https://github.com/jongund](https://github.com/jongund) 
+
+**Nicholas Hoyt** 
+[https://github.com/nhoyt](https://github.com/nhoyt) 
