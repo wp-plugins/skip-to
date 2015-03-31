@@ -2,8 +2,8 @@
  /*
 	Plugin Name: SkipTo
 	Plugin URI: https://github.com/paypal/SkipTo
-	Description: A simple way to expand the usefullness of your site's "Skip To Content" functionality.
-	Version: 0.1.3
+	Description: A simple way to expand the usefulness of your site's "Skip To Content" functionality.
+	Version: 2.0.0
 	Author: Prem Nawaz Khan, Victor Tsaran, Ron Feathers, and Marc Kocher
 	Author URI: https://github.com/paypal
 	License: Apache-2.0
