@@ -2,8 +2,8 @@
  /*
 	Plugin Name: SkipTo
 	Plugin URI: https://github.com/paypal/SkipTo
-	Description: A simple way to expand the usefullness of your site's "Skip To Content" functionality.
-	Version: 0.1.3
+	Description: A simple way to expand the usefulness of your site's "Skip To Content" functionality.
+	Version: 2.0.0
 	Author: Prem Nawaz Khan, Victor Tsaran, Ron Feathers, and Marc Kocher
 	Author URI: https://github.com/paypal
 	License: Apache-2.0
@@ -17,7 +17,7 @@
 		wp_register_script( 'skipInit.js', plugins_url( 'skip-to/js/skipToInit.js' , dirname(__FILE__) ), '', '1.1', true);
 		wp_enqueue_script( 'skipInit.js' );
 
-		wp_register_script( 'SkipTo.js', $skipTo_url, '', '1.1', true);
+		wp_register_script( 'SkipTo.js', $skipTo_url, '', '2.0.0', true);
 		wp_enqueue_script( 'SkipTo.js' );
 	}
 
